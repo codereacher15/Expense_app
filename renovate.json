@@ -10,9 +10,12 @@
   },
   "packageRules": [
     {
-      "prHourlyLimit": 2,
+      "prHourlyLimit": 5,
       "dependencyDashboardApproval": true,
       "branchPrefix": "feature/",
+       "labels": [
+        "renovatebot"
+      ],
       "matchUpdateTypes": [
         "major"
       ]
