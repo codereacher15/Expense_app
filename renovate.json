@@ -17,7 +17,7 @@
     "major": {
     "enabled": false
   },
-  "prHeader":"HEADER",
+  "commitMessagePrefix":"HEADER",
     
 
 }
