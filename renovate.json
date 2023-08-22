@@ -8,21 +8,13 @@
  "lockFileMaintenance": {
     "enabled": false
   },
-  "packageRules": [
-    {
-      "prHourlyLimit": 5,
+     "prHourlyLimit": 5,
       "dependencyDashboardApproval": true,
       "groupName":"version",
        "branchTopic":"update-version",
        "labels": [
         "renovatebot"
       ],
-     
-    },
-  
-    
-    
-  ],
     "major": {
     "enabled": false
   }
