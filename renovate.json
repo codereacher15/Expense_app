@@ -10,7 +10,7 @@
   },
      "prHourlyLimit": 5,
       "dependencyDashboardApproval": true,
-      "groupName":"version",
+  
        "labels": [
         "renovatebot"
       ],
