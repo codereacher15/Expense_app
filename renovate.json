@@ -12,7 +12,7 @@
     {
       "prHourlyLimit": 5,
       "dependencyDashboardApproval": true,
-      "groupName":"all",
+      "groupName":"update-version",
        "branchTopic":"update-version",
        "labels": [
         "renovatebot"
