@@ -17,8 +17,7 @@
     "major": {
     "enabled": false
   },
-  "commitMessagePrefix":"HEADER",
-  "groupName":"version",
+ "rebaseWhen": "behind-base-branch",
     
 
 }
