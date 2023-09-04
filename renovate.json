@@ -3,22 +3,10 @@
   "extends": [
     "config:recommended",
     ":assignee(codereacher15)",
-    ":reviewer(codereacher15)"
-  ],
- "lockFileMaintenance": {
-    "enabled": false
-  },
-     "prHourlyLimit": 5,
-      "dependencyDashboardApproval": true,
-  
-       "labels": [
-        "renovatebot"
-      ],
-    "major": {
-    "enabled": false
-  },
- "rebaseWhen": "behind-base-branch",
-    
+    ":reviewer(codereacher15)",
+     "github>codereacher15/renovate-config"
+  ]
+
 
 }
 
